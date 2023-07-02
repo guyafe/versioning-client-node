@@ -4,7 +4,7 @@ The versioning project is a demo to a process of correctly versioning a project,
 
 This project used Node v18.16.1.
 
-This repository demonstrates the Java client of a weather service.<br>
+This repository demonstrates the Node client of a weather service.<br>
 The current version is 0.0.0
 
 ## Usage
