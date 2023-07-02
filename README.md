@@ -2,7 +2,7 @@
 
 The versioning project is a demo to a process of correctly versioning a project, and based on the working branch automatically setting the dependencies.
 
-This project used Node v18.16.1 and Gradle 8.1.1.
+This project used Node v18.16.1.
 
 This repository demonstrates the Java client of a weather service.<br>
 The current version is 0.0.0
